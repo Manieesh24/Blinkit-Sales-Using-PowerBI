@@ -1,0 +1,1 @@
+The project utilizes a dataset containing sales data from Blinkit.By leveraging the power of data visualization and analysis will explore key metrics, trends, and patterns in Blinkit's sales performance.
